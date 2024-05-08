@@ -1,9 +1,11 @@
- Ex-4-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
-# DATE:28.02.24
-# NAME: Bharathi priyan T
-# REGISTER NUMBER: 212221040028
+ ## Ex-4-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
+ DATE:29.02.2024
+ 
+ NAME:KULAGANACHI.R
+ 
+ REGISTER NUMBER:212221040086
 # AIM
-## To write a lex program to implement lexical analyzer to recognize a few patterns.
+To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
 
 1.	Start the program.
